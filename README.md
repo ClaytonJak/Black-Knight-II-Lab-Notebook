@@ -7,11 +7,11 @@ We all know very little about what anything actually is, but we're ready to lear
 #### 15OCT15
 Today we got more familiarized with the space lab in Thayer Hall and the equipment that was purchased last year. We also sought out a Linux machine to use with the flight computer after reading the NanoMind A712D datasheet. We do not have the Linux machine as of yet (with Eclipse installed).
 #### 19OCT15
-We received the linux machine! Today I spent almost the entire class just having Tom show me how to use Linux. It's completely different from what I'm used to.
+We received the linux machine! Today I spent almost the entire class just having Tom show me how to use Linux. It's completely different from what I'm used to. It does seem to make enough sense though and there are plenty of resources that I can reference elsewhere.
 #### 21OCT15
-Today Tom and I made a gmail account (clayton.jaksha@gmail.com) for the purposes of interfacing with the Gomspace support help desk. We also explored the files that are included with the NanoMind A712D in two flash drives. It seems there is a code repository and a set of installation instructions. It appears everything that is needed to get the development environment up and running is included with the NanoMind, which is convenient.
+Today Tom and I made a [gmail account](clayton.jaksha@gmail.com) for the purposes of interfacing with the Gomspace support help desk. We also explored the files that are included with the NanoMind A712D in two flash drives. It seems there is a code repository and a set of installation instructions. It appears everything that is needed to get the development environment up and running is included with the NanoMind, which is convenient.
 #### 23OCT15
-Sprint 1 Review. A lot of work was put in offline to make this happen.
+Sprint 1 Review. A lot of work was put in offline to make this happen. All work can be found on [trello board](https://trello.com/b/nvrMijWc/black-knight-ii). Biggest comments from Sprint 1 review were mostly on briefing style and incorporating more of the Scrum Agile process into our work. We definitely have work to do on how we do business. I don't think we were doing enough self-assessment and cross-talk at the beginning of each class.
 #### 27OCT15
 #### 29OCT15
 #### 02NOV15
