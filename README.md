@@ -1,6 +1,6 @@
 ## Black Knight II Lab Notebook
 ###Clayton Jaksha | AY16-1
-### Retrospective/General Observations
+### *Retrospective/General Observations*
 This semester's Black Knight II capstone work was a lot of spinning tires in the mud and a lot of small gains. We also learned a great deal about being concise and picking proper language in briefings. That said, we have made progress. Hopefully this engineering unit will be complete by May.
 
 #### 13OCT15
