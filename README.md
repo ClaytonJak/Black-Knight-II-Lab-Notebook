@@ -1,6 +1,8 @@
 ## Black Knight II Lab Notebook
 ###Clayton Jaksha | AY16-1
 ### Retrospective/General Observations
+This semester's Black Knight II capstone work was a lot of spinning tires in the mud and a lot of small gains. We also learned a great deal about being concise and picking proper language in briefings. That said, we have made progress. Hopefully this engineering unit will be complete by May.
+
 #### 13OCT15
 Morale is high, we came in with LTC Burrow and discussed the broad picture of what Black Knight II needs to accomplish---everything from launch to normalized operations.
 We all know very little about what anything actually is, but we're ready to learn.
@@ -27,13 +29,19 @@ Sprint 2 Review. Like the sprint 1 review, we didn't slack off to make this prod
 #### 13NOV15
 We sent a full error report to Gomspace of the errors we receive when we try to run "./waf configure" and "./waf build". Hopefully this time they will be able to be of some help.
 #### 17NOV15
-No reponse from Gomspace, trying all sorts of things, tires in the mud though.
+No reponse from Gomspace, trying all sorts of things, tires in the mud though. Tom and I have been trying everything to make this work. We've uninstalled and reinstalled countless times and everything matches the instructions from Gomspace and from Johan. Nothing seems to be working.
 #### 19NOV15
+It is now one week without any contact whatsoever from Gomspace. We reached out to them again in a much more strongly worded fashion, reminding them of the capital (money and time) we've invested into their product and how we should be committed as a team towards getting this product into space because it gives their product flight heritage, thus making it more valuable. They responded almost immediately. Johan gave us a new image of the previous tar ball and, finally, a breakthrough. .waf finally configured and built (which was unreal). However, we got hung up on something new: installing OpenOCD in the JTAG directory. It seemed that the install did not go successfully. We screencapped the error report and sent it to the GOMSPACE help desk.
 #### 23NOV15
+Gomspace got back to us on the OpenOCD, saying that it was a known issue, so we shouldn't have a problem with it down the road. If we do... well... it's a known issue.
+
+Now we're looking to upload a "hello world" onto the computer. However, we have no idea how to do that. So, we reached out to Gomspace again.
 #### 30NOV15
+Today we attempted to brief our PDR and completely missed the mark. We met up to revise and recenter our brief and our information. We left with a few due-outs for each group.
 #### 02DEC15
-Failed PDR briefing today. 
+Failed PDR briefing today. We were not prepared. Flight computer needs to estimate packet sizing.
 #### 04DEC15
+Was not here for this class, but Tom told me that the practice brief again did not go well. Apparently we are still missing information on packet sizing and we need to reformat our briefing style entirely. We will meet and recenter again.
 #### 08DEC15
 Today we reviewed the LA Hacks team's sprint 2 review, which LTC Burrow said was a very good example of what a sprint review should look like.
 We feel confident that the sprint review for sprint 3 will reflect the work done for this sprint, which was almost entirely PDR work.
